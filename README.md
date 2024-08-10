@@ -1,1 +1,1 @@
-# New-Technology-stuff
+# Technology-stuff
